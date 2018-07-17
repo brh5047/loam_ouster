@@ -154,7 +154,7 @@ Visualization Manager:
       Size (Pixels): 3
       Size (m): 0.01
       Style: Points
-      Topic: /velodyne_cloud_registered
+      Topic: /ouster_cloud_registered
       Use Fixed Frame: true
       Use rainbow: true
       Value: true
