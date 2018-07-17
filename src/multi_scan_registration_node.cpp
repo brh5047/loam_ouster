@@ -1,5 +1,5 @@
 #include <ros/ros.h>
-#include "loam_velodyne/MultiScanRegistration.h"
+#include "loam_ouster/MultiScanRegistration.h"
 
 
 /** Main node entry point. */
