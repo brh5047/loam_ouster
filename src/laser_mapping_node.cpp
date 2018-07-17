@@ -1,5 +1,5 @@
 #include <ros/ros.h>
-#include "loam_velodyne/LaserMapping.h"
+#include "loam_ouster/LaserMapping.h"
 
 
 /** Main node entry point. */
